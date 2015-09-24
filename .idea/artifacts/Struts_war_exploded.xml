@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Struts:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Struts_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Struts" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib5" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="lib2" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="Struts/web/Web11" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web17" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web3" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web8" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web15" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web14" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web12" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web4" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web5" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web7" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web6" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web2" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web9" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web16" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web10" />
+      <element id="javaee-facet-resources" facet="Struts/web/Web13" />
+    </root>
+  </artifact>
+</component>
