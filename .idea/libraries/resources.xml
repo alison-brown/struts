@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/struts-2.3.24-all/struts-2.3.24/src/xwork-core/src/test/resources/xwork-jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts-2.3.24-all/struts-2.3.24/src/xwork-core/src/test/resources/xwork - zip.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts-2.3.24-all/struts-2.3.24/src/xwork-core/src/test/resources/xwork - jar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/struts-2.3.24-all/struts-2.3.24/src/xwork-core/src/test/resources/xwork-zip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
